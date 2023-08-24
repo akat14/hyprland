@@ -68,7 +68,7 @@ if [[ $INST == "Y" || $INST == "y" ]]; then
     dracula-gtk-theme dracula-icons-git xdg-desktop-portal-hyprland \
     steam rust ranger python python-ueberzug sxiv discord xsel python-pynvim \
     npm lua-language-server wget prettier python-black stylua lua ripgrep fd \
-    cmake unzip linux-headers
+    cmake unzip linux-headers unrar
 
     sudo npm i -g neovim
 
